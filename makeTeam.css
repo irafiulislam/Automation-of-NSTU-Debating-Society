@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+body .form{
+  height: auto;
+  width: 100%;
+  background: white;
+  box-shadow: 1px 1px 1px 1px solid grey;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+body .form form{
+padding-top: 10vh;
+  margin-left: 35vw;
+}
+
+
+body .form form input{
+  padding:  2vh 4vw;
+
+}
+
+body .form form select{
+  padding:  2vh 8vw;
+
+
+}
+body .form form input[type='submit']{
+  margin-top: 1vh;
+}

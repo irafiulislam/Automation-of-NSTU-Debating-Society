@@ -1,0 +1,60 @@
+*{
+  padding: 0;
+  margin:0;
+}
+
+body{
+  padding:0;
+  margin: 0;
+
+}
+
+body .bar{
+  height: 100%;
+  position: fixed;
+  width: 10vw;
+  background: black;
+}
+
+body .bar nav{
+  padding:4.5vh;
+}
+
+body .bar nav ul{
+ height: 100%;
+ width: 10vw;
+ padding: 0;
+ margin: 0;
+}
+body .bar nav ul  .img{
+  height: 15vh;
+  padding-bottom: 5vh;
+}
+body .bar nav ul .add{
+  height:6vh;
+  padding-top:4vh;
+}
+body .bar nav ul li {
+  height:5vh;
+
+
+
+}
+body .bar nav ul li a:hover {
+  height:5vh;
+  color: grey;
+
+
+
+}
+body .bar nav ul li a {
+
+ font-size: 1vw;
+ color: silver;
+ font-weight: bold;
+ font-family: sans-serif;
+ text-decoration: none;
+
+
+
+}
